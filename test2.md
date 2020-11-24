@@ -8,5 +8,3 @@ jenkins
 
 hi
 this is for test
-
-hello
